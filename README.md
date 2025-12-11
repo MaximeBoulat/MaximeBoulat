@@ -38,10 +38,10 @@ I am a software engineer with a knack for developing and shipping end-to-end sol
 
 ## BCM Software
 
-I am currently building my own startup, with a focus on personal knowledge management and AI image generation. Find out more at (bcm.software)[bcm.software].
+I am currently building my own startup, with a focus on personal knowledge management and AI image generation. Find out more at [bcm.software](bcm.software).
 
 ## Contact
 
-I can be reached on (LinkedIn)[https://www.linkedin.com/in/maxime-boulat-8488a3112/].
+I can be reached on [LinkedIn](https://www.linkedin.com/in/maxime-boulat-8488a3112/).
  
 
