@@ -4,7 +4,7 @@
 
 ## About me
 
-I am a software engineer with a knack for developing and shipping end-to-end solutions from scratch. I am currently puruing a MS in Applied Artificial Intelligence at USD. 
+I am a software engineer with a knack for developing and shipping end-to-end solutions from scratch. I am currently pursuing a MS in Applied Artificial Intelligence at USD. 
 
 ## Research
 
