@@ -9,7 +9,7 @@ I am a software engineer with a knack for developing and shipping end-to-end sol
 ## Research
 
 - 🧑‍💻 Predicting credit default risk with financial & demographic factors
-  - **Goal**: Analyze the effects of various factors on credit default risks using Naive Baye's and Logistic Regression
+  - **Goal**: Analyze the effects of various factors on credit default risks using Naive Bayesian and Logistic Regression
   - **Tech stack**: Pandas, Matplotlib, Seaborn, Scikit-learn
   - **Results:** Both models performed similarly, class imbalance caused poor recall for credit defaulters.
   - [Github](https://github.com/MaximeBoulat/AAI500-TeamProject)
