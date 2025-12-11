@@ -16,9 +16,9 @@ I am a software engineer with a knack for developing and shipping end-to-end sol
   - [Paper](https://github.com/MaximeBoulat/AAI500-TeamProject/blob/main/Final-Project-Report-Team-1.pdf)
 
 - 🧑‍💻 Imitation learning for 2D maze navigation with A* as the expert
-  - **Goal**: To generate synthetic data by making A* solve randomly generated mazes and train an assortment of models to learn A* obstacle avoidance and goal seeking behavior.
+  - **Goal**: To generate synthetic data by making A* solve randomly generated mazes and train an assortment of models to learn obstacle avoidance and goal seeking behavior.
   - **Tech stack**: TensorFlow, Scikit-learn, XGBoost, Pygame
-  - **Results**: Models trained on the synthetic data were able to navigate new randomly generated mazes without mistakes as long as the path to the goal did not involve too many complications.
+  - **Results**: Models trained on the synthetic data were able to navigate new randomly generated mazes without mistakes but struggled with more difficult scenarios.
   - [Github](https://github.com/MaximeBoulat/AAI501-TeamProject)
   - [Paper](https://github.com/MaximeBoulat/AAI501-TeamProject/blob/main/FinalProject/FinalProject.md)
  
