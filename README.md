@@ -6,7 +6,7 @@
 
 I am a software engineer with a knack for developing and shipping end-to-end solutions from scratch. I am currently pursuing a MS in Applied Artificial Intelligence at USD. 
 
-## Research
+## AI research
 
 - 🧑‍💻 Predicting credit default risk with financial & demographic factors
   - **Goal**: Analyze the effects of various factors on credit default risks using Naive Bayesian and Logistic Regression
