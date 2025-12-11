@@ -20,7 +20,7 @@ I am a software engineer with a knack for developing and shipping end-to-end sol
   - **Tech stack**: TensorFlow, Scikit-learn, XGBoost, Pygame
   - **Results**: Models trained on the synthetic data were able to navigate new randomly generated mazes without mistakes as long as the path to the goal did not involve too many complications.
   - [Github](https://github.com/MaximeBoulat/AAI501-TeamProject)
-  - [Paper](https://github.com/MaximeBoulat/AAI501-TeamProject/blob/main/FinalProject/Submission/FinalTeamProjectGroup4.pdf)
+  - [Paper](https://github.com/MaximeBoulat/AAI501-TeamProject/blob/main/FinalProject/FinalProject.md)
  
 - 🧑‍💻 Multi-Agent financial analysis system
   - **Goal**: To build a Agentic AI application using LangGraph that incorporates key patterns such as planning, routing, prompt chaining, tool use and state persistence
@@ -33,7 +33,7 @@ I am a software engineer with a knack for developing and shipping end-to-end sol
   - **Tech stack:**  Ultralytics YOLOv12, nuScenes SDK, PyTorch
   - **Results:** Good performance on objects with large LiDAR footprints like cars and trucks, more difficulty with smaller objects such as cyclists and pedestrians. Real-time visualization of model predictions on reconstructed 3D scenes.
   - [Github](https://github.com/MaximeBoulat/AAI521-TeamProject)
-  - [Paper](https://github.com/MaximeBoulat/AAI521-TeamProject/blob/main/deliverables/AAI521_FinalPaper.pdf)
+  - [Paper](https://github.com/MaximeBoulat/AAI521-TeamProject/blob/main/deliverables/Paper.md)
 
 
 ## BCM Software
