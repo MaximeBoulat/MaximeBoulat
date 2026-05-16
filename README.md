@@ -34,6 +34,7 @@ I am a Software Engineer with a knack for developing and shipping end-to-end sol
   - **Results:** Good performance on objects with large LiDAR footprints like cars and trucks, more difficulty with smaller objects such as cyclists and pedestrians. Real-time visualization of model predictions on reconstructed 3D scenes.
   - [Github](https://github.com/MaximeBoulat/AAI521-TeamProject)
   - [Paper](https://github.com/MaximeBoulat/AAI521-TeamProject/blob/main/deliverables/Paper.md)
+  - [Video](https://youtu.be/oWWAPwXNd2I?si=lgUWY-xvzZRmr6GA)
  
 - 🧑‍💻 Smart City energy consumption monitoring and prediction system.
   - **Goal:** To demonstrate proficiency with IoT and LSTMs by training 2 models on IoT data and operationalizing them as a Tableau monitoring dashboard
