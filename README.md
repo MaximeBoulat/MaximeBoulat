@@ -9,7 +9,7 @@ I am a Software Engineer with a knack for developing and shipping end-to-end sol
 ## AI research
 
 🧑‍💻 Cost aware mobile customer churn prediction.
-- **Goal:** To build a end-to-end AWS hosted MLOps system composed of a train and stage pipeline with quality gate, a live inference endpoint and a comtinuous monitoring system.
+- **Goal:** To build a end-to-end AWS hosted MLOps system composed of a train-and-stage pipeline with quality gate, a live inference endpoint and a continuous monitoring system.
 - **Tech stack:** AWS Sagemaker AI Studio, Glue, Athena, Pipelines, Terraform, Cloudwatch
 - **Results:** All 3 systems successfully deployed and verified on AWS.
 - [Github](https://github.com/MaximeBoulat/aai-540-customer-churn)
