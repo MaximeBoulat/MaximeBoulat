@@ -26,7 +26,7 @@ I am a Software Engineer with a knack for developing and shipping end-to-end sol
 🧑‍💻 Deep dive into Decision Trees to build real estate price estimation model.
 - **Goal:** To experiment with the various members of the Decision Trees family of models to predict median housing price for California districts.
 - **Tech stack:** SKLearn, Decision Trees, Ensemble methods, Bagging, Boosting, geographic clustering (k-means), preprocessing pipeline (ColumnTransformer), cross-validation
-- **Results:** Our experiment compared 5 different models (Decision Tree depth sweep, Decision Tree grid search, Bagging, Random Forest and Gradient Boosted Random Forrest) and found that Random Forest significantly improves performance over single Decision Trees and that Gradient Boosted Random Forrest dominated. Further more, a feature importance study was conducted showing that median income and geography where the most important factors.
+- **Results:** Our experiment compared 5 different models (Decision Tree depth sweep, Decision Tree grid search, Bagging, Random Forest and Gradient Boosted Random Forest) and found that Random Forest significantly improves performance over single Decision Trees and that Gradient Boosted Random Forest dominated. Further more, a feature importance study was conducted showing that median income and geography where the most important factors.
 - [Github](https://github.com/MaximeBoulat/TeamProject-510)
 - [Paper](https://github.com/MaximeBoulat/TeamProject-510/blob/main/Final%20Project%20Section1-Team1.pdf)
 - [Video](https://www.youtube.com/watch?v=HcVFXHUWRAQ&feature=youtu.be)
